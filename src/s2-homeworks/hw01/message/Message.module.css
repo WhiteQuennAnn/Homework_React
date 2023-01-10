@@ -7,19 +7,20 @@
 }
 
 .imageAndText img {
-
+    width: 50px;
+    border-radius: 50px;
 }
 
 .text {
-
+    color: green;
 }
 
 .text:after {
-
+    background-color: #cc9c00;
 }
 
 .name {
-
+    color: #cc0000;
 }
 
 .messageText {
@@ -27,5 +28,5 @@
 }
 
 .time {
-
+    color: blueviolet;
 }

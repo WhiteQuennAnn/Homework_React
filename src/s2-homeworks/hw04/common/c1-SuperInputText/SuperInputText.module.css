@@ -1,20 +1,34 @@
 .input:focus {
+    outline: none;
+    border: #00cc22 solid 3px;
 }
 
 .input {
+    margin: 20px;
+    background: lightgoldenrodyellow;
+    color: black;
 }
 
 .inputWrapper {
+    color: hotpink;
 }
 
 .superInput {
+    color: #0059b3;
 }
 
 .errorInput {
+    margin: 20px;
+    color: #cc9c00;
+    border: red solid 3px;
+
 }
 
 .errorInput:focus {
+    color: darkviolet;
 }
 
 .error {
+    color: pink;
+    margin-left: 20px;
 }

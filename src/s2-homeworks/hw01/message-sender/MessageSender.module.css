@@ -1,18 +1,37 @@
 .sendForm {
+    position: absolute;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: #FFFFFF;
+    max-height: 20%;
+    max-width: 30%;
 
 }
 
 .textarea {
-
+    background-color: antiquewhite;
+    border-radius: 15px;
+    margin-inside: 30px;
+    height: 31px;
+    width: 288px;
 }
 
 .button {
+    background-color: #0059b3;
+    text-decoration-color: #FFFFFF;
+    border: 20px;
+    margin-inside: 30px;
+    height: 31px;
+    width: 88px;
 
 }
 
 .button:hover {
+    background-color: #cc0000;
 
 }
+
 .button:active {
+    background-color: greenyellow;
 
 }

@@ -1,7 +1,18 @@
 .button {
+    position: relative;
+    margin: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    background: violet;
+    /*padding-top: 50px;*/
+    /*padding-bottom: 20px;*/
+    /*font-family: 'Ubuntu', sans-serif;*/
+    /*background: #353535;*/
+    /*color: #FFF*/
 }
 
 .disabled {
+    background-color: violet;
 }
 
 .secondary {
@@ -11,9 +22,11 @@
 }
 
 .red {
+    background-color: #cc0000;
 }
 
 .default:hover {
+    position: absolute;
 }
 
 .red:hover {
