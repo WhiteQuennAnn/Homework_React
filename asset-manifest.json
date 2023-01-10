@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Homework_React/static/css/main.8acf6a61.css",
+    "main.js": "/Homework_React/static/js/main.c4a5f9a5.js",
+    "static/js/787.66cb4309.chunk.js": "/Homework_React/static/js/787.66cb4309.chunk.js",
+    "static/media/closeOutline.svg": "/Homework_React/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
+    "index.html": "/Homework_React/index.html",
+    "static/media/burger.svg": "/Homework_React/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
+    "main.8acf6a61.css.map": "/Homework_React/static/css/main.8acf6a61.css.map",
+    "main.c4a5f9a5.js.map": "/Homework_React/static/js/main.c4a5f9a5.js.map",
+    "787.66cb4309.chunk.js.map": "/Homework_React/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8acf6a61.css",
+    "static/js/main.c4a5f9a5.js"
+  ]
+}
